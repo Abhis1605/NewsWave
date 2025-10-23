@@ -1,9 +1,9 @@
 {
   "name": "news-wave",
-  "homepage" : "https://github.com/Abhis1605/NewsWave.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage" : "https://abhis1605.github.io/NewsWave/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
